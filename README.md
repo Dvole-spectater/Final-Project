@@ -1,6 +1,4 @@
-# FinalProject-2026
-
-## Intro
+## FinalProject-2026
 
 This is my Final Project meant for my Cis 1051 corse which is to make a program of somekind using python.
 
