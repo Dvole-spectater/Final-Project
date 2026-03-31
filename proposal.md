@@ -1,16 +1,16 @@
 # Proposal
 
 ## What will (likely) be the title of your project?
-TODO
+
 Dice Game
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A game where you roll a dice (could be 6 die or 20 die) to win the objective
+A game where you roll a dice (could be 6 die or 20 die) to complete the objective/ win the game
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
--
+
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
