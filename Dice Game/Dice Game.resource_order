@@ -11,6 +11,6 @@
     {"name":"Obj_player","order":2,"path":"objects/Obj_player/Obj_player.yy",},
     {"name":"Rm_menu","order":1,"path":"rooms/Rm_menu/Rm_menu.yy",},
     {"name":"Gam_Man","order":1,"path":"sprites/Gam_Man/Gam_Man.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"GM_player","order":2,"path":"sprites/GM_player/GM_player.yy",},
   ],
 }
