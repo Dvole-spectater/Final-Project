@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":6,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":4,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":8,"path":"folders/Sprites.yy",},
+    {"name":"Title_Menu","order":3,"path":"folders/Title_Menu.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":5,"path":"fonts/Font1/Font1.yy",},
+    {"name":"Obj_button_play","order":1,"path":"objects/Obj_button_play/Obj_button_play.yy",},
+    {"name":"Obj_player","order":2,"path":"objects/Obj_player/Obj_player.yy",},
+    {"name":"Rm_menu","order":1,"path":"rooms/Rm_menu/Rm_menu.yy",},
+    {"name":"Gam_Man","order":1,"path":"sprites/Gam_Man/Gam_Man.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
