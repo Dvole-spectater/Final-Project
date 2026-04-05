@@ -10,7 +10,7 @@ A game where you roll a dice (could be 6 die or 20 die) to complete the objectiv
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-The software will be a video game that uses the mechanic of chance and randomness as a way to perform actions to win/complete the objective in the game. It will be visualized to have 
+The software will be a video game that uses the mechanic of chance and randomness as a way to perform actions to win/complete the objective in the game. It will be visualized featuring the enviorment, dices, and possible battles. At the same time I hope to have at least be playable to up to 30 minutes to an 1 hour(if possible). I'm planning to make it in Gamemaker Studio, but it could change incase if there's any issues that makes it harder for me to continue.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
