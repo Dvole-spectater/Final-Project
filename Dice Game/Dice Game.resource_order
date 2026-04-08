@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Scripts","order":10,"path":"folders/Scripts.yy",},
     {"name":"Objects","order":6,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":4,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":8,"path":"folders/Sprites.yy",},
@@ -12,7 +13,10 @@
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Rm_menu","order":1,"path":"rooms/Rm_menu/Rm_menu.yy",},
     {"name":"Gam_Man","order":1,"path":"sprites/Gam_Man/Gam_Man.yy",},
-    {"name":"GM_player","order":2,"path":"sprites/GM_player/GM_player.yy",},
+    {"name":"GM_player_Down","order":2,"path":"sprites/GM_player_Down/GM_player_Down.yy",},
+    {"name":"GM_player_Left","order":6,"path":"sprites/GM_player_Left/GM_player_Left.yy",},
+    {"name":"GM_player_Right","order":7,"path":"sprites/GM_player_Right/GM_player_Right.yy",},
+    {"name":"GM_player_Up","order":5,"path":"sprites/GM_player_Up/GM_player_Up.yy",},
     {"name":"Spr_wall","order":3,"path":"sprites/Spr_wall/Spr_wall.yy",},
   ],
 }

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"GM_player",
-    "path":"sprites/GM_player/GM_player.yy",
+    "name":"GM_player_Down",
+    "path":"sprites/GM_player_Down/GM_player_Down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
