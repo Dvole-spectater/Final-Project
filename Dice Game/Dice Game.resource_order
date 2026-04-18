@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings":[
-    {"name":"Tile_sets","order":11,"path":"folders/Tile_sets.yy",},
     {"name":"Objects","order":6,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":4,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":10,"path":"folders/Scripts.yy",},
     {"name":"Sprites","order":8,"path":"folders/Sprites.yy",},
+    {"name":"Tile_sets","order":11,"path":"folders/Tile_sets.yy",},
     {"name":"Title_Menu","order":3,"path":"folders/Title_Menu.yy",},
   ],
   "ResourceOrderSettings":[
@@ -19,6 +19,7 @@
     {"name":"GM_player_Right","order":7,"path":"sprites/GM_player_Right/GM_player_Right.yy",},
     {"name":"GM_player_Up","order":5,"path":"sprites/GM_player_Up/GM_player_Up.yy",},
     {"name":"spr_building_tiles","order":8,"path":"sprites/spr_building_tiles/spr_building_tiles.yy",},
+    {"name":"spr_table","order":9,"path":"sprites/spr_table/spr_table.yy",},
     {"name":"Spr_wall","order":3,"path":"sprites/Spr_wall/Spr_wall.yy",},
   ],
 }
