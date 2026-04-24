@@ -52,3 +52,6 @@ if xspd == 0 and yspd ==0
 	{
 	image_index = 0;
 	}
+	
+// depth
+depth = -bbox_bottom;

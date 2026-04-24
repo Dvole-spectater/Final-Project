@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"Obj_officestuff",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"Obj_officestuff",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_wall",
+    "path":"objects/obj_wall/obj_wall.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_wall",
-    "path":"sprites/Spr_wall/Spr_wall.yy",
+    "name":"spr_officestuff",
+    "path":"sprites/spr_officestuff/spr_officestuff.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
