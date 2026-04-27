@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_building_tiles",
   "bboxMode":0,
-  "bbox_bottom":111,
+  "bbox_bottom":159,
   "bbox_left":0,
   "bbox_right":127,
   "bbox_top":0,
