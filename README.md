@@ -7,3 +7,7 @@ My project is on the topic
 
 ## Youtube Link
 https://youtu.be/V4MGGTMo7UE
+
+## Wants
+Some of the things I enjoyed when doing my project was learning how similar but differnt the coding language was between
+python and Gamemaker's language
