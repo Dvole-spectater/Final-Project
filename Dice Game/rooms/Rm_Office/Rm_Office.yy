@@ -23,6 +23,7 @@
     {"name":"inst_2474DCBC","path":"rooms/Rm_Office/Rm_Office.yy",},
     {"name":"inst_3786320D","path":"rooms/Rm_Office/Rm_Office.yy",},
     {"name":"inst_76968C33","path":"rooms/Rm_Office/Rm_Office.yy",},
+    {"name":"inst_A531378","path":"rooms/Rm_Office/Rm_Office.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -55,6 +56,7 @@
         {"$GMRInstance":"v4","%Name":"inst_4A94B97D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4A94B97D","objectId":{"name":"Object7","path":"objects/Object7/Object7.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-0.87499994,"scaleY":0.87499994,"x":197.0,"y":90.0,},
         {"$GMRInstance":"v4","%Name":"inst_3786320D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3786320D","objectId":{"name":"Obj_Drawer","path":"objects/Obj_Drawer/Obj_Drawer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":77.0,"y":48.0,},
         {"$GMRInstance":"v4","%Name":"inst_76968C33","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76968C33","objectId":{"name":"Obj_warp_block","path":"objects/Obj_warp_block/Obj_warp_block.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.8333334,"scaleY":1.0,"x":127.0,"y":189.0,},
+        {"$GMRInstance":"v4","%Name":"inst_A531378","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A531378","objectId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.34539324,"scaleY":0.34539324,"x":160.0,"y":144.0,},
       ],"layers":[],"name":"Collison_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Map_Front","depth":-50,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Map_Front","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":14,"SerialiseWidth":18,"TileCompressedData":[
           -21,0,1,11,-10,12,1,13,-6,0,12,19,20,52,20,20,52,20,20,52,20,20,21,-6,0,1,19,-10,28,1,21,-6,0,1,19,-10,
@@ -87,7 +89,7 @@
   "roomSettings":{
     "Height":216,
     "inheritRoomSettings":false,
-    "persistent":false,
+    "persistent":true,
     "Width":288,
   },
   "sequenceId":null,

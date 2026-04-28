@@ -1,1 +1,0 @@
-global.font_main = font_add(Comic, 32, true, 1, 32, 128);
